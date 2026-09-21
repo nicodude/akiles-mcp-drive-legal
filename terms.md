@@ -61,5 +61,5 @@ Les présentes conditions peuvent être mises à jour à tout moment. La date de
 
 Pour toute question concernant ces conditions d’utilisation :
 
-[Ton nom ou société]  
-[Ton email]
+Nicolas Moreau
+Nicolas (at) haigo .(fr) 
